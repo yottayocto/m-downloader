@@ -1,0 +1,7 @@
+name: m_downloader
+version: 1.0.0
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  http: ^0.12.0+1
+  crypto: ^2.0.6
